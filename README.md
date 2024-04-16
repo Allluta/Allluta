@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alicja</h1>
-<h3 align="center">👩‍💻 As a fourth-year student in Computational Engineering, I'm deeply passionate about the world of Java and all things related to it. From exploring the intricacies of the language to crafting innovative solutions, my journey in software development is fueled by curiosity and a love for elegant code. Always open to new opportunities and collaborative projects, my GitHub is a space where ideas take shape. Let's connect, share insights, and build something exceptional together!</h3>
-
-- 🔭 I’m currently working on **an engineering project based on Java, Spring Boot, and Angular, focusing on developing a salon reservation system**
+<h3 align="center">👩‍💻 As a first-year graduate student in Technical Informatics at AGH, I'm deeply passionate about the world of Java and all things related to it. From exploring the intricacies of the language to crafting innovative solutions, my journey in software development is fueled by curiosity and a love for elegant code. Always open to new opportunities and collaborative projects, my GitHub is a space where ideas take shape. Let's connect, share insights, and build something exceptional together!</h3>
 
 - 📫 How to reach me **alaor@onet.pl**
+
 
 
 <p align="left">
